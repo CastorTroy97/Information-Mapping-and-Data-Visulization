@@ -1,4 +1,4 @@
-# Information-Mapping-and-Data-Visulization Final Project
+# Bailout Money Amount Problems in Covid-19
 
 Covid-19 is a worlwide pandemic. Because of this pandemic a lot people died, and a lot of people got infected. Since this virus can rapidly spread,
 everbody tries to protect himself, and also everybody tries to strengthen  his immune system to be able to fight against virus. These are mainly about pandemic's 
