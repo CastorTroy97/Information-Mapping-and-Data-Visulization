@@ -1,4 +1,4 @@
-# Bailout Money Amount Problems in Covid-19
+# Bailout Money Amount Problems in Covid-19 (Deliverables "A")
 
 Covid-19 is a worlwide pandemic. Because of this pandemic a lot people died, and a lot of people got infected. Since this virus can rapidly spread,
 everbody tries to protect himself, and also everybody tries to strengthen  his immune system to be able to fight against virus. These are mainly about pandemic's 
@@ -19,4 +19,17 @@ Because of this reason, the countries that decided to go shutdown announced bail
 
 Some of the countries bailout package amounts are enough to stay in quarantine by not working. On the other hand, the other countries bailout 
 package amounts are not enough to stay in quarantine by not working. This causes some serious economic depression in houses.
+
+# Explanations For Deliverables "B"
+
+I got these data from various well-known news sites which announced the bailout money amounts per different countries. A lot countries announced their
+bailout money amount as numerical, or as GDP rate.In the light of this information news sites, newspapers made news about it. I have checked that kind 
+of sources, and after that I acquired some data about this topic. 
+
+I faced some problems which are about uncertainty because although some countries announced their bailout amount obviously, some of them are didn't.
+Some countries hide their political issues from the rest of the world. So, to reach some countries bailout money amount data was really tough.
+
+I can say, I collected approximately 30-40 data. My research mainly contains countries. Since my data are about bailout amounts, 
+I acquired 30-40 countries bailout money amount information.  
+
 
