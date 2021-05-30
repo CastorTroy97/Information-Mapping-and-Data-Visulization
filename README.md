@@ -7,7 +7,7 @@ health effects. On the other hand, there is a big economic effect of this pandem
 Because of Covid-19 pandemic, almost every economic activity either stopped, or slowed down. This means, in different economic areas commerce volume decreased.
 Unfortunately a lot of employees got fired. That means, fired people needed to get some financial help during pandemic. 
 
-After Covid-19 spreaded quickly, countries understood that this is a serious pandemic which is affect whole world. Therefore, a lot countries decided to go shutdown.
+After Covid-19 spreaded quickly, countries understood that this is a serious pandemic which affects whole world. Therefore, a lot countries decided to go shutdown.
 Shutdown or lockdown means every population must be in quarantine in their houses. They thought that we can get rid of this pandemic in this way. Even though
 shutdown is a good solution to prevent fast spread of the virus, it occured some economic needs.
 
