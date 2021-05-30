@@ -2,7 +2,7 @@
 
 Covid-19 is a worlwide pandemic. Because of this pandemic a lot people died, and a lot of people got infected. Since this virus can rapidly spread,
 everbody tries to protect himself, and also everybody tries to strengthen  his immune system to be able to fight against virus. These are mainly about pandemic's 
-health effcets. On the other hand, there is a big economic effect of this pandemic over the people.
+health effects. On the other hand, there is a big economic effect of this pandemic over the people.
 
 Because of Covid-19 pandemic, almost every economic activity either stopped, or slowed down. This means, in different economic areas commerce volume decreased.
 Unfortunately a lot of employees got fired. That means, fired people needed to get some financial help during pandemic. 
